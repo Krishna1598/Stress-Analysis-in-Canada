@@ -4,6 +4,7 @@ The outbreak of COVID-19 has placed healthcare workers under psychological stres
 ## Files
 - BERTopic : performed topic modeling using BERTopic.
 - Data : dataset used in this project.
+- OpenAI_GPT3.5 : implemented OpenAI model for classification.
 - Results: output of analysis and final models result.
 - analysis.py : performs stress analysis.
 - data_preprocess.py : clean and filter data.
